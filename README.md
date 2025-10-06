@@ -24,4 +24,3 @@ It implement base Chip 8, and should be sorta accurate. It should have most of t
 
 also, sound is just not implemented (behaves like a nop) as i have *la flemme*
 
-### Also don't execpt this to be good
