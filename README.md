@@ -6,7 +6,7 @@ Some awfully written Chip 8 emulator because fun i guess
 * Pygame
 
 # Infos
-First, it's poorly written as i am a dumbass
+First, it's poorly written as i am a dumbass\
 It is maped for AZERTY where\
 1 2 3 C\
 4 5 6 D\
